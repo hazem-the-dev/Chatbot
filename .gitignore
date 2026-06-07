@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+lstm_tuning/
+internal_run/
